@@ -6,7 +6,7 @@ var mario, mario_running, mario_collided;
 var ground, invisibleGround, groundImage;
 
 var coinGroup, coinImage;
-var obstaclesGroup, obstacle2, obstacle1,obstacle3;
+var obstaclesGroup,obstacle2, obstacle1,obstacle3;
 var score=0;
 
 
